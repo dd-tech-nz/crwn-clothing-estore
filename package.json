@@ -21,7 +21,7 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [
+    "productiogit n": [
       ">0.2%",
       "not dead",
       "not op_mini all"
